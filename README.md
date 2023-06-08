@@ -1,1 +1,1 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/f48lnr54gxop5kfu?svg=true)](https://ci.appveyor.com/project/temser1/CardDelivery)
+[![Build status](https://ci.appveyor.com/api/projects/status/ox7ujv1wp1dighal/branch/main?svg=true)](https://ci.appveyor.com/project/temser1/debcarddivilery/branch/main)
